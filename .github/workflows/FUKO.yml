@@ -18,8 +18,8 @@ jobs:
 
       - name: Set up Git config
         run: |
-          git config user.name "PhamHieuh2rqs"
-          git config user.email "your-email@example.com"  # thay bằng email commit của bạn
+          git config user.name "fukomzt"
+          git config user.email "minhngoc9a2.21@gmail.com"  # thay bằng email commit của bạn
 
       - name: Update timestamp
         run: echo "Last updated: $(date)" > TIMESTAMP.txt
